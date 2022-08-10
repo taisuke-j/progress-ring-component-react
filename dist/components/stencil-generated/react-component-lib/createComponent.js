@@ -72,4 +72,3 @@ export const createReactComponent = (tagName, ReactComponentContext, manipulateP
     }
     return createForwardRef(ReactComponent, displayName);
 };
-//# sourceMappingURL=createComponent.js.map

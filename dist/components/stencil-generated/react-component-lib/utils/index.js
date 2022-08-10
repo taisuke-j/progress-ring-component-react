@@ -31,4 +31,3 @@ export const defineCustomElement = (tagName, customElement) => {
 };
 export * from './attachProps';
 export * from './case';
-//# sourceMappingURL=index.js.map

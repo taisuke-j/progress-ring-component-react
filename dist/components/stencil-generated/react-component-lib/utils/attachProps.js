@@ -95,4 +95,3 @@ const arrayToMap = (arr) => {
     arr.forEach((s) => map.set(s, s));
     return map;
 };
-//# sourceMappingURL=attachProps.js.map

@@ -10,4 +10,3 @@ export const deprecationWarning = (key, message) => {
         }
     }
 };
-//# sourceMappingURL=dev.js.map

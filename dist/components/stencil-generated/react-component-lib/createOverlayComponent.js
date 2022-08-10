@@ -106,4 +106,3 @@ export const createOverlayComponent = (tagName, controller, customElement) => {
         return React.createElement(Overlay, Object.assign({}, props, { forwardedRef: ref }));
     });
 };
-//# sourceMappingURL=createOverlayComponent.js.map

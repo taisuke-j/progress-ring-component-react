@@ -1,6 +1,6 @@
 {
   "name": "progress-ring-component-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React specific wrapper for progress-ring-component",
   "module": "./dist/index.js",
   "main": "./dist/index.js",
